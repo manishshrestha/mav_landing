@@ -4,7 +4,7 @@ test set and 90% for training set. The corresponding filename of the images will
 
 In order to use this script, 
 - copy this script to the directory containing the jpg images 
-- change the variable path_data to indicate the relatvie path of the image folder w.r.t. darknet.exe file
+- change the variable path_data to indicate the relative path of the image folder w.r.t. darknet.exe file
 - run this script.
 
 For ex:
